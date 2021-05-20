@@ -1,0 +1,6 @@
+Flask==1.1.2
+Requests==2.7.0
+SimpleJson==3.17.2
+mysql-connector-python==8.0.25
+mysql-connector==2.2.9
+BeautifulSoup4==4.9.3
